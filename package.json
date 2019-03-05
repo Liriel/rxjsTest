@@ -1,0 +1,12 @@
+{
+  "name": "rxjstest",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "dependencies": {
+    "rxjs": "^6.4.0",
+    "typescript": "^3.3.3333"
+  },
+  "devDependencies": {
+    "@types/rx": "^4.1.1"
+  }
+}
